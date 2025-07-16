@@ -1,1 +1,2 @@
-print("hello world" * 40)
+print("hello world" * 10)
+print("apa kamu")
